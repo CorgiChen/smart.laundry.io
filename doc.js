@@ -2,47 +2,47 @@ var flag1 = false, flag2 = true, flag3 = true, flag4 = true;
 var m1 = document.getElementById("Machine1");
 if (flag1)
 {
-    m1.innerText = "Finished";
-    m1.style.color = "green";
+    m1.innerText = "In Operation";
+    m1.style.color = "black";
 }
 else
 {
-    m1.innerText = "Unfinished";
-    m1.style.color = "red";
+    m1.innerText = "Stand By";
+    m1.style.color = "LimeGreen ";
 }
 
 var m2 = document.getElementById("Machine2");
 if (flag2)
 {
-    m2.innerText = "Finished";
-    m2.style.color = "green";
+    m2.innerText = "In Operation";
+    m2.style.color = "black";
 }
 else
 {
-    m2.innerText = "Unfinished";
-    m2.style.color = "red";
+    m2.innerText = "Stand By";
+    m2.style.color = "LimeGreen ";
 }
 
 var m3 = document.getElementById("Machine3");
 if (flag3)
 {
-    m3.innerText = "Finished";
-    m3.style.color = "green";
+    m3.innerText = "In Operation";
+    m3.style.color = "black";
 }
 else
 {
-    m3.innerText = "Unfinished";
-    m3.style.color = "red";
+    m3.innerText = "Stand By";
+    m3.style.color = "LimeGreen ";
 }
 
 var m4 = document.getElementById("Machine4");
 if (flag4)
 {
-    m4.innerText = "Finished";
-    m4.style.color = "green";
+    m4.innerText = "In Operation";
+    m4.style.color = "black";
 }
 else
 {
-    m4.innerText = "Unfinished";
-    m4.style.color = "red";
+    m4.innerText = "Stand By";
+    m4.style.color = "LimeGreen ";
 }
