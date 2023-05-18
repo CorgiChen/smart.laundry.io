@@ -3,7 +3,7 @@ var m1 = document.getElementById("Machine1");
 if (flag1)
 {
     m1.innerText = "In Operation";
-    m1.style.color = "black";
+    m1.style.color = "red";
 }
 else
 {
@@ -15,7 +15,7 @@ var m2 = document.getElementById("Machine2");
 if (flag2)
 {
     m2.innerText = "In Operation";
-    m2.style.color = "black";
+    m2.style.color = "red";
 }
 else
 {
@@ -27,7 +27,7 @@ var m3 = document.getElementById("Machine3");
 if (flag3)
 {
     m3.innerText = "In Operation";
-    m3.style.color = "black";
+    m3.style.color = "red";
 }
 else
 {
@@ -39,7 +39,7 @@ var m4 = document.getElementById("Machine4");
 if (flag4)
 {
     m4.innerText = "In Operation";
-    m4.style.color = "black";
+    m4.style.color = "red";
 }
 else
 {
