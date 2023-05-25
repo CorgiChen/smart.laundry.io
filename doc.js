@@ -1,4 +1,4 @@
-var flag1 = false, flag2 = true, flag3 = true, flag4 = true;
+var flag1 = false, flag2 = false, flag3 = true, flag4 = true;
 var m1 = document.getElementById("Machine1");
 if (flag1)
 {
